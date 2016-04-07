@@ -1,0 +1,22 @@
+/* Inserta tu código aqui */
+.a{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 50px;
+	margin-left: 50px;
+}
+.b{
+	position: relative;
+	left: 80px;
+	bottom: 30px;
+	color:white;
+}
+.c{
+	display: block;
+	background-color: black;
+	width: 90px;
+	height: 5px;
+	margin-bottom: 30px;
+}
+
